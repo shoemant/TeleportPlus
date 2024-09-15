@@ -1,0 +1,9 @@
+name: TeleportPlus
+version: 1.0
+main: com.Sumant.TeleportPlus.TeleportPlus
+author: Sumant
+commands:
+  sethome:
+    description: Sets your home location.
+  home:
+    description: Teleports you to your home location.
